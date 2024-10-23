@@ -1,0 +1,12 @@
+{
+  "driver": {
+    "type": "输入浏览器类型，支持Chrome、Firefox、Edge",
+    "path": "浏览器驱动的路径，支持绝对路径和相对路径"
+  },
+  "wait-time": 10,
+  "account": {
+    "id": "输入你的学号",
+    "password": "输入统一认证密码"
+  },
+  "courses": ["课程一", "课程二"]
+}
