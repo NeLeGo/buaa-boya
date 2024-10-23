@@ -35,7 +35,7 @@ pip install selenium
 {
   "driver": {
     "type": "edge",
-    "path": "./msedgedriver.exe"
+    "path": "./driver/msedgedriver.exe"
   },
   "wait-time": 10,
   "account": {
